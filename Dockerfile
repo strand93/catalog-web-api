@@ -15,3 +15,5 @@ FROM base AS final
 WORKDIR /app
 COPY --from=build /app/publish .
 ENTRYPOINT ["dotnet", "CatalogWebApi.dll"]
+
+CMD ASPNETCORE_URLS=http://*:$PORT dotnet CatalogWebApi.dll
