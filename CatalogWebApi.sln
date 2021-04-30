@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogWebApi", "CatalogWebApi\CatalogWebApi.csproj", "{85A41496-D030-45EB-84EB-8B0A3D855AB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogWebApi", "CatalogWebApi.csproj", "{85A41496-D030-45EB-84EB-8B0A3D855AB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
